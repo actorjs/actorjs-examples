@@ -1,0 +1,24 @@
+{
+  "name": "actorjs-examples",
+  "version": "1.0.0",
+  "description": "ActorJs Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/actorjs/actorjs-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/actorjs/actorjs-examples/issues"
+  },
+  "homepage": "https://github.com/actorjs/actorjs-examples",
+  "dependencies": {
+    "actorjs-core": "^1.0.0",
+    "actorjs-bus": "^1.0.0",
+    "actorjs-persist": "^1.0.0"
+  }
+}
